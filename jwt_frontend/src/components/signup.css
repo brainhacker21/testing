@@ -1,0 +1,18 @@
+h1,p{
+    text-align: center;
+}
+
+.inputForm {
+    width: 100%;
+   display: flex;
+   justify-content: space-evenly;
+   flex-direction: column;
+}
+
+input, label {
+    display: flex;
+  
+}
+
+
+
